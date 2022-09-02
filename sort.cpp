@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
+//inbuilt sort consist of heap sort, insertion sort and quick sort.
+//O(nlog(n))
 
 int main(int argc, const char** argv) {
     int N;
