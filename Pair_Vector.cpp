@@ -16,7 +16,7 @@ int main()
 {
     // declaring, initialising and printing pair p
     pair<int,string> p;
-    // 2 menthods to initialise pair p
+    // Two menthods to initialise pair p
     // 1. p= make_pair(2,"abc");
     // 2. direct method
     p={2,"abc"};
